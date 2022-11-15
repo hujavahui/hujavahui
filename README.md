@@ -1,23 +1,14 @@
-- 👋 Hi, I'm here!!!
-- 🥇 I’m EricHuuuuuuui, I'm a PHD in NUAA, my research direction is eye-tracking and eye-gaze driving
-- 👀 I’m interested in reading, guitar, travelling and running
-- 📫 Living in China, Nanjing
-- 😆 How to reach me-------Any place full of joy
-
-<!---
-hujavahui/hujavahui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-    :wave: Hi! I design for <a href="https://www.optimism.io/">Optimism</a>.
-    <br>Before that, I designed at GitHub for 6+ years!
-      <br>I think GitHub is <em>so cool</em> and still use it :D
-    <br>Today, I'm still learning to make things :sparkles:<br><br>
+    :wave: Hi! I'm here!!!</a>.
+    <br>:point_rightI’m EricHuuuuuuui, a PHD in NUAA
+    <br>👀My research direction is eye-tracking and eye-gaze driving
+    <br>🥇I’m interested in reading, guitar, travelling and running
+    <br>📫Living in China, Nanjing
+    <br>😆 How to reach me-------Any place full of joy
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a>
   </samp>
 </p>
 
